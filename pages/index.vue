@@ -133,12 +133,12 @@
           <div class="w3-container">
             <h5 class="w3-opacity"><b>Mei 2024</b></h5>
             <p>
-              Advanced Understanding of Basic Machine Learning and Data Science Using
-              Python: This program uqips me with the necessary skills to preproccess data,
-              build and evaluate machine learning models, and perform data analysis using
-              Python. Through a combination of theoretical learning and practial coding
-              exercises, I have develop a comprehensive skill set that allows me to
-              approach and solve data-drivem problems with confidence and efficiency.
+              Saya adalah seorang mahasiswa yang berdedikasi dengan pengalaman di bidang sistem informasi 
+              dan elektornika. Memimiliki latar belakang yang kuat di bidang ilmu komputer, saya terbiasa 
+              bekerja dalam lingkungan yang dinamis dan menuntut. Saya memiliki ketrampilan komunikasi 
+              yang baik dan kemampuan untuk bekerja secara efektif, baik secara mandiri maupun dalam tim, 
+              saya selalu berusaha untuk belajar dan berkembang, serta siap menghadapi tantangan baru yang 
+              dapat memperkaya kemampuan dan ketrampilan saya.
             </p>
             <hr />
           </div>
