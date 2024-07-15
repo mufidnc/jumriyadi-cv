@@ -6,15 +6,15 @@
       <div class="w3-third">
         <div class="w3-white w3-text-grey w3-card-4">
           <div class="w3-display-container">
-            <img src="/jumri.jpg" style="width: 100%" alt="Avatar" />
+            <img src="/C:\Users\Mufid Nur Cahya\Documents\web cv mufid\jumriyadi-cv\public\WhatsApp Image 2024-07-13 at 20.30.16.jpeg" style="width: 100%" alt="Avatar" />
             <div class="w3-display-bottomleft w3-container w3-text-black">
-              <h2>Muh Jumri Yadi</h2>
+              <h2>Mufid Nur Cahya</h2>
             </div>
           </div>
           <div class="w3-container">
             <p>
               <i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i
-              >Data Scientist
+              >IT Support
             </p>
             <p>
               <i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i
@@ -22,16 +22,16 @@
             </p>
             <p>
               <i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>
-              <a href="mailto:Jumriyadi11@gmail.com">Jumriyadi11@gmail.com</a>
+              <a href="mailto:mufidnc@gmail.com">mufidnc@gmail.com</a>
             </p>
             <p>
               <i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(+62)
-              85216859793
+              8990044314
             </p>
             <p>
               <i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i
-              ><a href="https://www.linkedin.com/in/muhjumriyadi/"
-                >https://www.linkedin.com/in/muhjumriyadi/</a
+              ><a href="https://www.linkedin.com/in/mufid-nurcahya-870a57293/"
+                >https://www.linkedin.com/in/mufid-nurcahya-870a57293//</a
               >
             </p>
             <hr />
@@ -114,10 +114,9 @@
           </h2>
           <div class="w3-container">
             <ul>
-              <li>Technology and Innovation are the Future</li>
+              <li>Technician</li>
               <li>6th Semester Computer Systems Student at Bung Karno University</li>
-              <li>Specializing in Data Science</li>
-              <li>Ready to Contribute to Challenging Tech Projects</li>
+              <li>IT Support</li>
             </ul>
           </div>
         </div>
@@ -128,7 +127,7 @@
           </h2>
           <div class="w3-container">
             <h5 class="w3-opacity"><b>Juni 2024</b></h5>
-            <p>Belajar Machine Learning untuk Pemula – Dicoding</p>
+            <p>Belajar Data Science – Dicoding</p>
             <hr />
           </div>
           <div class="w3-container">
@@ -159,11 +158,11 @@
             <hr />
           </div>
           <div class="w3-container">
-            <h5 class="w3-opacity"><b>SMK YP IPPI PETOJO </b></h5>
+            <h5 class="w3-opacity"><b>SMKN 5 Jakarta </b></h5>
             <h6 class="w3-text-teal">
               <i class="fa fa-calendar fa-fw w3-margin-right"></i>2018 – 2021
             </h6>
-            <p>Computer and Network Engineering</p>
+            <p>Electronica</p>
             <hr />
           </div>
         </div>
