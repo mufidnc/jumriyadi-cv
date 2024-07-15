@@ -6,7 +6,7 @@
       <div class="w3-third">
         <div class="w3-white w3-text-grey w3-card-4">
           <div class="w3-display-container">
-            <img src="/C:\Users\Mufid Nur Cahya\Documents\web cv mufid\jumriyadi-cv\public\WhatsApp Image 2024-07-13 at 20.30.16.jpeg" style="width: 100%" alt="Avatar" />
+            <img src="mufid.jpg" style="width: 100%" alt="Avatar" />
             <div class="w3-display-bottomleft w3-container w3-text-black">
               <h2>Mufid Nur Cahya</h2>
             </div>
